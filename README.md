@@ -1,7 +1,7 @@
 ## Quran Flutter App
  
 This is a Quran Flutter app that allows users to read and search for verses from the Quran. The app utilizes an API to fetch data and uses the `BLoC` architecture to manage state. `DIO` is used to communicate with the API.
-
+<img src="quran_gsg/assets/images/quranfram" alt="Quran app" title="Quran">
 # Features
 Browse the Quran by Surah.
 Search for verses by keyword.
@@ -31,7 +31,7 @@ This app uses the  Dio package to communicate with the Quran API. The quran_repo
 Conclusion
 This Quran Flutter app demonstrates the use of an API, the BLoC architecture, and HTTP in a mobile app. Feel free to modify and customize this app to fit your specific needs. Happy coding!
 
-<img src="screenshots/quranfram" alt="Quran app" title="Quran">
+
 
 
 
