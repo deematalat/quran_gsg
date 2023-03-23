@@ -31,6 +31,7 @@ This app uses the  Dio package to communicate with the Quran API. The quran_repo
 Conclusion
 This Quran Flutter app demonstrates the use of an API, the BLoC architecture, and HTTP in a mobile app. Feel free to modify and customize this app to fit your specific needs. Happy coding!
 
+<img src="screenshots/quranfram" alt="Quran app" title="Quran">
 
 
 
